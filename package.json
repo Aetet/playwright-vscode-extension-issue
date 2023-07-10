@@ -1,0 +1,13 @@
+{
+  "name": "playwrightus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "scripts": {},
+  "dependencies": {
+    "typed-inject": "^4.0.0"
+  }
+}
